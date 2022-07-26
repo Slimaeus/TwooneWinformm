@@ -1,0 +1,15 @@
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\bin\Debug\TwooneWinform.exe.config
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\bin\Debug\TwooneWinform.exe
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\bin\Debug\TwooneWinform.pdb
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.csproj.AssemblyReference.cache
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.csproj.SuggestedBindingRedirects.cache
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.Forms.LayoutForm.resources
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.Forms.QuanLyPhimForm.resources
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.frmMain.resources
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.Properties.Resources.resources
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.UserControls.QuanLyNguoiDungUserControl1.resources
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.UserControls.QuanLyPhimUserControl.resources
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.csproj.GenerateResource.cache
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.csproj.CoreCompileInputs.cache
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.exe
+F:\University\LapTrinhWindow\Twoone\TwooneWinform\TwooneWinform\TwooneWinform\obj\Debug\TwooneWinform.pdb
